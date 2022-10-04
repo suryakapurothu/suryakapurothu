@@ -5,6 +5,6 @@
 - 📫 You can reach me on Instagram @suryahigh
 
 <!---
-Surya5081/Surya5081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+suryakapurothu/suryakapurothu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
